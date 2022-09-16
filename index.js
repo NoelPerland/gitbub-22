@@ -30,7 +30,18 @@ const members = [
 ]
 
 console.log('\nMedlemmar i grupp 7:')
-
 for (i = 0; i < members.length; i++){
   console.log(i + 1 + '. ' + members[i])
 }
+
+// Patrik
+Vad är vår gemensama ålder?
+const Miguel = 0;
+const Mika = 0;
+const Patrik = 0;
+const Sanaz = 0; 
+const Noel = 0;
+const Rebbeca = 0;
+const sum = Miguel + Mika + Patrik + Sanaz + Noel + Rebbeca;
+
+console.log('Vår gemensama ålder är: ' + sum);
