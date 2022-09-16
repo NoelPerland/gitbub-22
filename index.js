@@ -29,7 +29,7 @@ const members = [
   'Sanaz'
 ]
 
-console.log('Medlemmar i grupp 7:')
+console.log('\nMedlemmar i grupp 7:')
 
 for (i = 0; i < members.length; i++){
   console.log(i + 1 + '. ' + members[i])
