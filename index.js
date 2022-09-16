@@ -19,3 +19,18 @@ function minMax(arrNum) {
 
 let input = [23, 81, 45, 12, 39, 35];
 minMax(input);
+
+const members = [
+  'Miguel',
+  'Mika',
+  'Noel',
+  'Patrik',
+  'Rebecca',
+  'Sanaz'
+]
+
+console.log('Medlemmar i grupp 7:')
+
+for (i = 0; i < members.length; i++){
+  console.log(i + 1 + '. ' + members[i])
+}
