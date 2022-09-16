@@ -1,0 +1,20 @@
+{
+  "name": "gitbub-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelQW/gitbub-22.git"
+  },
+  "author": "Group 7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelQW/gitbub-22/issues"
+  },
+  "homepage": "https://github.com/MiguelQW/gitbub-22#readme"
+}
