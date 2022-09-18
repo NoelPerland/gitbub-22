@@ -35,7 +35,7 @@ for (i = 0; i < members.length; i++){
 }
 
 // Patrik
-Vad är vår gemensama ålder?
+//Vad är vår gemensama ålder?
 const Miguel = 0;
 const Mika = 0;
 const Patrik = 0;
