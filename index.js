@@ -48,8 +48,14 @@ console.log('Vår gemensama ålder är: ' + sum);
 
 
 
-// En funktion om dagen det är bra för magen
+// Miguels funktion, en hälsningsfras 
 
-function hej (namn= 'kalaskamrater') {
+function hej (namn= 'klassen') {
 
-console.log(`Hej, ${namn}!`) }
+console.log(`\n Hej, ${namn}!`) }
+
+hej('webb22')
+
+hej()
+
+
