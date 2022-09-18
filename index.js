@@ -52,6 +52,4 @@ console.log('Vår gemensama ålder är: ' + sum);
 
 function hej (namn= 'kalaskamrater') {
 
-console.log(`Hej, ${namn}!`)
-
-}
+console.log(`Hej, ${namn}!`) }
