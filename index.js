@@ -20,6 +20,7 @@ function minMax(arrNum) {
 let input = [23, 81, 45, 12, 39, 35];
 minMax(input);
 
+//Mika, grupp 7 medlemmar
 const members = [
   'Miguel',
   'Mika',
