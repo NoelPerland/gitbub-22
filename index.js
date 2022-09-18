@@ -66,4 +66,4 @@ function fikaGott(kaka1, kaka2, kaka3)
 console.log(kaka1, kaka2, kaka3);
 }
 
-fikaGott("\nChokladbiskvi", "\nBudapestlängd", "\nJag har höftproblem och äter mandelkubb");
+fikaGott("\nChokladbiskvi", "\nBudapestlängd", "\nJag har tandproblem och äter därför inte mandelkubb");
