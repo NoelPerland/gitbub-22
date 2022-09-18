@@ -45,3 +45,13 @@ const Rebbeca = 0;
 const sum = Miguel + Mika + Patrik + Sanaz + Noel + Rebbeca;
 
 console.log('Vår gemensama ålder är: ' + sum);
+
+
+
+// En funktion om dagen det är bra för magen
+
+function hej (namn= 'kalaskamrater') {
+
+console.log(`Hej, ${namn}!`)
+
+}
