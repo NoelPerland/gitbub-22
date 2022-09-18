@@ -59,3 +59,10 @@ hej('webb22')
 hej()
 
 
+//Rebecca, fikalista
+function fikaGott(kaka1, kaka2, kaka3)
+{
+console.log(kaka1, kaka2, kaka3);
+}
+
+fikaGott("\nChokladbiskvi", "\nBudapestlängd", "\nJag har höftproblem och äter mandelkubb");
